@@ -11,3 +11,19 @@ Distribution of the soil in the container - layers of various colours from top t
 The soil moisture sensors x 4 - each sensor goes inside each side of the container to monitor changing quality of soil (mixed and altered by moving Earthworms).
 
 Earthworms x 200
+
+
+Links to soil we used before:
+https://www.amazon.co.uk/gp/product/B008DCQQJ6/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&th=1
+https://www.amazon.co.uk/gp/product/B008MJXGOS/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+https://www.amazon.co.uk/gp/product/B001B1RTME/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+https://www.amazon.co.uk/gp/product/B008C1RFZM/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
+https://www.amazon.co.uk/gp/product/B071L2JTX9/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
+https://www.amazon.co.uk/gp/product/B002YJU708/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
+https://www.amazon.co.uk/gp/product/B00393UDM0/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&psc=1
+
+In addition to that we had 3 big suitcases of soil from the allotment/ garden and 2 suitcases with the sand from the local beach.
+
+Tiger Earthworms: 
+https://www.amazon.co.uk/gp/product/B00CTIVH44/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+
