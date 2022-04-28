@@ -1,5 +1,12 @@
 # decompositions
 
+CLONE the Repo using git-lfs! 
+
+Use the connection_schematic.pdf to connect electonics, soundcard and comoputer. 
+
+My personal suggestion is to move assets folder with 2 soundfiles to max folder - so it is neat and easy to adjust the folder path for the sounds in 'max/decompositions.maxpat'.
+
+
 * make sure you adjust the serial port in `max/moistureSensor.maxpat`
 * make sure you adjust the folder path for the sounds in `max/decompositions.maxpat`
 * start decompositions with `max/decompositions.maxpat`
