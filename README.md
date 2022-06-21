@@ -11,7 +11,15 @@ My personal suggestion is to move assets folder with 2 soundfiles to max folder 
 * make sure you adjust the folder path for the sounds in `max/decompositions.maxpat`
 * start decompositions with `max/decompositions.maxpat`
 
-Tech Part List: https://docs.google.com/spreadsheets/d/16rk_ijG2s-y5U8M1kOIhnkncQNvcBDGrJFFxXzoj7dY/edit#gid=0
+Tech Part (DETAILED List: https://docs.google.com/spreadsheets/d/16rk_ijG2s-y5U8M1kOIhnkncQNvcBDGrJFFxXzoj7dY/edit#gid=0)
+The Red Leds, soils sensors, piezzos and arduinos shall be provided with the package. Check if wires are not broken and treat them carefully - the connections are very delicate and very easy to break. 
+In addition - to get the art work up we need: 
+
+1) USB Sound card such as https://www.thomann.de/nl/behringer_umc1820.htm
+2) PC or Apple with MAX MSP installed (either but the licence for a month or it will be provided from us)
+3) 4 Speakers
+
+NON - TECH ELEMENTS:
 
 Soil - various (various colours for better way of illustrating earthworms burrows)
 Distribution of the soil in the container - layers of various colours from top to bottom. Then around sides: 2 neighbouring sides:  dry soil and  2 remaining sides should house more of the moist soil.
